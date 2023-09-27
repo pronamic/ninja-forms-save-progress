@@ -1,0 +1,160 @@
+# Copyright (C) 2017 Ninja Forms Save Progress
+# This file is distributed under the same license as the Ninja Forms Save Progress package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ninja Forms - Save Progress\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: includes/admin/savestable.php:21 includes/fields/savebutton.php:15
+#: templates/action-table.html.php:6
+msgid "Save"
+msgstr ""
+
+#: includes/admin/savestable.php:22
+msgid "Saves"
+msgstr ""
+
+#: includes/admin/savestable.php:82
+msgid "No saves found."
+msgstr ""
+
+#: includes/admin/savestable.php:116
+msgid "User"
+msgstr ""
+
+#: includes/admin/savestable.php:117 templates/admin/menu-page.html.php:14
+msgid "Updated"
+msgstr ""
+
+#: includes/admin/savestable.php:141
+msgid "user_id"
+msgstr ""
+
+#: includes/admin/savestable.php:142
+msgid "updated"
+msgstr ""
+
+#: includes/admin/savestable.php:221
+#: templates/admin/table/row-actions.html.php:13
+msgid "Delete"
+msgstr ""
+
+#: includes/admin/savestable.php:222 templates/admin/menu-page.html.php:17
+#: templates/admin/table/row-actions.html.php:10
+msgid "Convert to Submission"
+msgstr ""
+
+#: includes/admin/savestable.php:238 includes/admin/savestable.php:257
+msgid "Go get a life, script kiddies"
+msgstr ""
+
+#: includes/controllers/menu.php:56
+msgid "View Saves"
+msgstr ""
+
+#: includes/controllers/settings.php:23
+msgid "Active on Save"
+msgstr ""
+
+#: includes/controllers/settings.php:39
+msgid "Save Progress"
+msgstr ""
+
+#: includes/controllers/settings.php:51
+msgid "Enable Local Browser Storage"
+msgstr ""
+
+#: includes/controllers/settings.php:54
+msgid ""
+"Saves field data to the visitor's browser using local storage (using a "
+"cookie), without needing to log-in."
+msgstr ""
+
+#: includes/controllers/settings.php:60
+msgid "Allow multiple saves (Logged-In Only)"
+msgstr ""
+
+#: includes/controllers/settings.php:63
+msgid ""
+"Allow visitors to save multiple versions of their progress, if they are "
+"logged in."
+msgstr ""
+
+#: includes/controllers/settings.php:70
+msgid "Saves Table Title"
+msgstr ""
+
+#: includes/controllers/settings.php:73
+msgid "Load saved progress"
+msgstr ""
+
+#: includes/controllers/settings.php:82
+msgid "Save Table Columns"
+msgstr ""
+
+#: includes/controllers/settings.php:82
+msgid "Add New"
+msgstr ""
+
+#: includes/controllers/settings.php:87
+msgid "Field Key"
+msgstr ""
+
+#: includes/deprecated.php:42
+msgid "Convert to Published"
+msgstr ""
+
+#: includes/fields/savebutton.php:50
+msgid "You do not have permission to perform this action."
+msgstr ""
+
+#: templates/action-table.html.php:5
+msgid "Submit"
+msgstr ""
+
+#: templates/action-table.html.php:7
+msgid "Name"
+msgstr ""
+
+#: templates/action-table.html.php:8
+msgid "Type"
+msgstr ""
+
+#: templates/action-table.html.php:9
+msgid "Actions"
+msgstr ""
+
+#: templates/admin/table/row-actions.html.php:7
+msgid "View Progress"
+msgstr ""
+
+#: templates/save-empty.html.php:2
+msgid "No saved data found."
+msgstr ""
+
+#: templates/save-item.html.php:6
+msgid "Load"
+msgstr ""
+
+#: templates/save-item.html.php:7
+msgid "Cancel"
+msgstr ""
+
+#: templates/save-table.html.php:4
+msgid "Saved"
+msgstr ""
+
+#: templates/saves-loading.html.php:2
+msgid "Checking for saved data..."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Ninja Forms - Save Progress"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Save Progress add-on for Ninja Forms."
+msgstr ""
